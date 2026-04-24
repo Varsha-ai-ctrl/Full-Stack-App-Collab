@@ -1,0 +1,7 @@
+/* Clean App.css to rely on index.css for the main layout */
+#root {
+  width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
